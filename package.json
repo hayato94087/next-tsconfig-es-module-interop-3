@@ -10,7 +10,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "next": "14.1.4"
+    "next": "14.1.4",
+    "snakecase-keys": "^6.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
